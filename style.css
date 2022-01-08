@@ -1,0 +1,23 @@
+body {
+  background-color: #efc280;
+}
+.photo {
+  width: 400px;
+  padding: 1.11rem;
+  border-radius: 5px;
+  margin: 0 auto 4.44rem auto;
+  background-color: white;
+}
+
+.photo .image-container {
+  overflow: hidden;
+  margin-bottom: 1.11rem;
+}
+
+.photo .image-container img {
+  width: 100%;
+}
+
+.photo .caption {
+  font-style: italic;
+}
